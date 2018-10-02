@@ -29,7 +29,7 @@ $user = $results;
 <meta charset="utf-8">
 <title> Bienvenido </title>
 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/estilo.css">
 </head>
 <body>
 
